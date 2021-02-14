@@ -8,7 +8,7 @@
 4. Selection Sort    --->  https://github.com/umairiqbal78/Python_work/blob/main/selectionsort.py
 5. Insertion Sort    --->  https://github.com/umairiqbal78/Python_work/blob/main/insertion%20sort.py
 
-**Object Oriented Programming**
+**Object Oriented Programming (OOP)**
 1. Bank Employee Class --->  https://github.com/umairiqbal78/Python_work/blob/main/OOP%20Bank%20Employee.py
 2. Cars and Restaurant Inherited Class --->  https://github.com/umairiqbal78/Python_work/blob/main/OOP%20Inheritance.ipynb
 3. Students Class      --->  https://github.com/umairiqbal78/Python_work/blob/main/OOP%20student.py
