@@ -1,5 +1,5 @@
 # **Python_work**
-## Core Python implementations including OOP tasks, Searching and sorting algorithms and some work on pandas and numpy.
+## Core Python implementations including OOP tasks, Searching and sorting algorithms and some demo tasks.
 
 **Searching and Sorting algorithms include**
 1. Sequential Search --->  https://github.com/umairiqbal78/Python_work/blob/main/SeqSearch.py
